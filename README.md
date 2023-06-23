@@ -1,4 +1,4 @@
-# CS688_Capstone_Project
+# Uncovering User Behavior in Digital Music Marketplace: A Cluster Analysis of Bandcamp Sales
 
 # Author
 Nguyen Nguyen | Pace University, Seidenberg School of Computer Science and Information Systems
